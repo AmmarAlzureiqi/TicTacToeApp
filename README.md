@@ -18,10 +18,14 @@ This Tic-Tac-Toe app is built with React Native, allowing you to enjoy the class
 
 Follow these steps to use the Tic-Tac-Toe app:
 
-1. Create a base React Native project if you don't have one. You can do this using the React Native CLI.
+1. Create a base React Native project if you don't have one. You can do this using the React Native CLI. cd into your desired directory and input the following into your terminal. (This make take a few minutes)
 
    ```bash
    npx react-native init YourTicTacToeApp
+
+   ```bash
+   cd YourTicTacToeApp
+
 
 
 
