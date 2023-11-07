@@ -25,7 +25,7 @@ export default function App() {
     newSquares[index] = player;
     setSquares(newSquares);
 
-    const newPressed = [...pressed];
+    const newPressed = [...pressed]; 
     newPressed[index] = true;
     setPressed(newPressed);
 
