@@ -45,11 +45,22 @@ You may need to run these:
 
 7. Run your React Native project to start the Tic-Tac-Toe app. Using one of the following:
    ```bash
-   npm start
-   npm run ios
+   npx react-native run-ios
+   npx react-native run-android
    ```
+8. Enjoy playing Tic-Tac-Toe on your mobile device!
 
+## Next Steps
 
+Here are some ideas for the next steps in the development of this app:
+
+- Add an AI Opponent: Enhance the app by implementing an AI opponent to play against. This can make the game more challenging and enjoyable.
+
+- Add Other Mini-Games: Expand the app by incorporating other mini-games, making it a collection of fun games to keep users engaged.
+
+Feel free to contribute to the project and make it even better!
+If you have any questions or need assistance, don't hesitate to reach out.
+Happy gaming!
 
 
 <img src='https://github.com/AmmarAlzureiqi/TicTacToeApp/assets/100096699/c81b8638-b972-411b-a04a-66a43da90735' width='100' height='200'>
