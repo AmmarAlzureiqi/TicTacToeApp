@@ -18,14 +18,36 @@ This Tic-Tac-Toe app is built with React Native, allowing you to enjoy the class
 
 Follow these steps to use the Tic-Tac-Toe app:
 
+You may need to run these:
+   ```bash
+   brew install node
+   brew install watchman
+   ```
+
 1. Create a base React Native project if you don't have one. You can do this using the React Native CLI. cd into your desired directory and input the following into your terminal. (This make take a few minutes)
 
    ```bash
    npx react-native init YourTicTacToeApp
-
-Then cd into your app
+   ```
+2. Then cd into your app
    ```bash
    cd YourTicTacToeApp
+   ```
+3. Clone this repository or download it to your computer.
+
+4. Locate the following files in the repository:
+   App.js
+   Assets folder
+
+5. Replace the default App.tsx file in your React Native project with the App.js file from this repository.
+
+6. Copy the contents of the Assets folder and paste them into your project's Assets folder.
+
+7. Run your React Native project to start the Tic-Tac-Toe app. Using one of the following:
+   ```bash
+   npm start
+   npm run ios
+   ```
 
 
 
