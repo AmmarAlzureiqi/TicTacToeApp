@@ -23,6 +23,7 @@ Follow these steps to use the Tic-Tac-Toe app:
    ```bash
    npx react-native init YourTicTacToeApp
 
+Then cd into your app
    ```bash
    cd YourTicTacToeApp
 
