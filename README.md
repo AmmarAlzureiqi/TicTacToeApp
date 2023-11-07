@@ -1,6 +1,6 @@
 # TicTacToe
 
-<img src='https://github.com/AmmarAlzureiqi/TicTacToeApp/assets/100096699/c81b8638-b972-411b-a04a-66a43da90735' width='25'>
+<img src='https://github.com/AmmarAlzureiqi/TicTacToeApp/assets/100096699/c81b8638-b972-411b-a04a-66a43da90735' width='100'>
 
 ![image](https://github.com/AmmarAlzureiqi/TicTacToeApp/assets/100096699/c81b8638-b972-411b-a04a-66a43da90735)
 ![image](https://github.com/AmmarAlzureiqi/TicTacToeApp/assets/100096699/1dae2f3f-031f-4e5c-a3a6-a07f6e69acdd)
